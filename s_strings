@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">s_act_1</string>
+    <string name="Banana">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin A and C, Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Apple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Pineapple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Cashewnut">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Lemon">Vitamin C ,Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (B1, B2, B6) ,Calcium, Iron, Potasium, Copper</string>
+    <string name="Strawberry">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium ,Selinium</string>
+    <string name="fruit1">Banana</string>
+    <string name="fruit2">Apple</string>
+    <string name="fruit3">Pineapple</string>
+    <string name="fruit4">Cashew nut</string>
+    <string name="fruit5">Lemon</string>
+    <string name="fruit6">Strawberry</string>
+    <string name="act1_but1">Nutrition levels of different fruits</string>
+    <string name="act1_but2">Recommended dietary allowance</string>
+    <string name="back">back</string>
+    <string name="group1">Adult age group(male):</string>
+    <string name="group1_male">Calories:2900kcal\nProteins:58g\nVitamin A:1000mcg\nVitamin D:10mcg\nVitamin E:10mcg\nVitamin K:70mcg\nVitamin C:60mg\nVitamin B1:1.5mg\nVitamin B2:1.7mg\nVitamin B3:19mg\nVitamin B6:2mcg\nFolate:0.2mg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:350mg\nIron:10mg\nZinc:15mcg\nIodine:150mcg\nSelenium:70mcg</string>
+    <string name="group2">Adult age group(female):</string>
+    <string name="group2_female">Calories:2200kcal\nProteins:46g\nVitamin A:800mcg\nVitamin D:10mcg\nVitamin E:8mcg\nVitamin K:60mcg\nVitamin C:60mg\nVitamin B1:1.1mg\nVitamin B2:1.3mg\nVitamin B3:15mg\nVitamin B6:1.6mcg\nFolate:180mcg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:280mg\nIron:15mg\nZinc:12mcg\nIodine:150mcg\nSelenium:55mcg</string>
+</resources>
